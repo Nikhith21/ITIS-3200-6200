@@ -1,4 +1,5 @@
 **Lab02HashingProgram**
+
 This project is my solution for Lab 02 – Hashing Program for ITIS 6200.
 
 **Overview**
